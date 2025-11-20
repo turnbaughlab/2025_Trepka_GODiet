@@ -1,0 +1,36 @@
+"","PatientID","Sex","Age","Race","Ethnicity","Primary_Cancer","Cancer_stage","Mets_Enrollment","Cohort","Radiation","Concurrent_Tx","Ileostomy","Colostomy","Procedure","Location_of_Primary_Tumor","BMI","Presence_of_Primary_Tumor","AnyTox","HFS","Dose","PD","GI"
+"1",1,"Female","50-59","Unknown","Hispanic, Latino, or Spanish origin","Colon","IIIB","Yes","C_CAP_IO","No","No","No","No","Right hemicolectomy","Transverse colon",33.0964978584026,"No",1,1,1,0,1
+"2",2,"Male","50-59","White","Unknown","Colon","IIA","Yes","C_CAP_IO","No","No","No","No","Subtotal colectomy with ileosigmoid anastomosis","Descending/sigmoid",23.3918128654971,"No",1,1,0,1,0
+"3",4,"Female","70-79","White","Not Hispanic or Latino","Colon","IVA","Yes","B_TAS102","No","No","No","No","Extended right colectomy","Cecum/ascending",26.0583536246743,"No",1,0,0,1,1
+"4",6,"Male","50-59","White","Not Hispanic or Latino","Colon","IV","Yes","C_CAP_IO","No","No","No","No","No surgery","Descending/sigmoid",21.2418235165176,"Yes",0,0,0,1,0
+"5",7,"Female","50-59","White","Not Hispanic or Latino","Colon","IIIB","No","A_CAP","No","Oxaliplatin","No","No","Right hemicolectomy","Transverse colon",34.777519050308,"No",1,0,1,1,1
+"6",9,"Female","30-39","White","Not Hispanic or Latino","Rectum","IV","Yes","B_TAS102","No","Bevacizumab","No","No","No surgery","Rectum",23.9042980835712,"Yes",0,0,0,0,0
+"7",12,"Male","60-69","White","Not Hispanic or Latino","Colon","IV","Yes","C_CAP_IO","No","No","No","No","laparotomy & Right hemicolectomy & wedge resection of a single liver nodule","Cecum/ascending",28.4459727361337,"No",0,0,0,0,0
+"8",13,"Female","50-59","Black/African American & White","Not Hispanic or Latino","Rectum","I","Yes","C_CAP_IO","No","No","No","No","Abdominoperineal resection","Rectum",23.0721864414216,"No",1,1,0,1,0
+"9",14,"Female","50-59","White","Not Hispanic or Latino","Colon","IV","Yes","C_CAP_IO","No","No","No","No","No surgery","Descending/sigmoid",31.044704374299,"Yes",1,1,0,1,0
+"10",15,"Female","30-39","White","Unknown","Colon","IV","Yes","C_CAP_IO","No","No","No","No","No surgery","Descending/sigmoid",24.4803207766171,"Yes",0,0,0,1,0
+"11",17,"Male","70-79","White","Not Hispanic or Latino","Colon","IIIC","Yes","C_CAP_IO","No","No","No","No","Right hemicolectomy","Cecum/ascending",24.7584393558463,"No",0,0,0,1,0
+"12",18,"Male","60-69","Unknown","Hispanic, Latino, or Spanish origin","Rectum","IV","Yes","C_CAP_IO","No","No","No","Reversed","Low anterior resection with diverting loop ileostomy","Rectum",26.5243134036564,"No",1,1,0,0,0
+"13",19,"Male","50-59","White","Not Hispanic or Latino","Colon","IIIB","No","A_CAP","No","Oxaliplatin","No","No","Sigmoid colectomy","Descending/sigmoid",25.1806295519265,"No",1,0,0,0,1
+"14",20,"Female","50-59","Asian","Not Hispanic or Latino","Colon","IIIC","Yes","A_CAP","No","Bevacizumab","No","No","Sigmoid colectomy","Descending/sigmoid",28.1153340084458,"No",1,1,1,1,1
+"15",21,"Male","30-39","White","Not Hispanic or Latino","Colon","IIIB","No","A_CAP","No","Oxaliplatin","No","No","Left hemicolectomy","Descending/sigmoid",24.6012946919453,"No",1,1,0,0,1
+"16",22,"Female","30-39","White","Not Hispanic or Latino","Colon","IIIA","No","A_CAP","No","Oxaliplatin","No","No","Sigmoid colectomy","Rectosigmoid",26.1667686181046,"No",1,0,0,0,1
+"17",23,"Female","50-59","White","Not Hispanic or Latino","Rectum","IIIB","No","A_CAP","Yes","No","No","No","No surgery","Rectosigmoid",26.1837208764793,"Yes",1,0,0,0,0
+"18",25,"Female","50-59","White","Not Hispanic or Latino","Colon","I","Yes","A_CAP","No","Bevacizumab","No","No","Low anterior resection","Descending/sigmoid",25.3045035747972,"No",1,1,1,0,0
+"19",29,"Female","60-69","Asian","Not Hispanic or Latino","Colon","IVA","Yes","B_TAS102","No","Y-90 radioembolization","No","No","No surgery","Descending/sigmoid",20.0576917112106,"Yes",0,0,0,0,0
+"20",31,"Male","50-59","White","Not Hispanic or Latino","Rectum","III","No","A_CAP","Yes","No","No","No","No surgery","Rectum",29.9534339307891,"Yes",1,0,0,0,1
+"21",32,"Female","50-59","White","Not Hispanic or Latino","Colon","IIIA","No","A_CAP","No","Oxaliplatin","No","No","Transverse hemicolectomy","Transverse colon",33.8303868677342,"No",0,0,0,0,0
+"22",33,"Male","30-39","White","Not Hispanic or Latino","Colon","IIIC","No","A_CAP","No","Oxaliplatin","No","No","Sigmoid colectomy","Descending/sigmoid",23.2557495687996,"No",1,0,0,0,1
+"23",34,"Female","60-69","White","Not Hispanic or Latino","Colon","IIIB","No","A_CAP","No","Oxaliplatin","No","No","Right hemicolectomy","Cecum/ascending",29.4531665026796,"No",0,0,0,0,0
+"24",35,"Male","60-69","White","Not Hispanic or Latino","Colon","IIIB","No","A_CAP","Yes","No","No","No","Right hemicolectomy","Cecum/ascending",25.8505449569811,"No",1,0,0,0,0
+"25",38,"Male","30-39","White","Not Hispanic or Latino","Colon","IIA","No","A_CAP","No","Oxaliplatin","No","No","Sigmoid colectomy","Descending/sigmoid",24.9502676523144,"No",1,0,1,0,0
+"26",42,"Male","50-59","White","Not Hispanic or Latino","Rectum","IIIA","No","A_CAP","Yes","No","No","No","No surgery","Rectum",28.4378119776648,"Yes",0,0,0,0,0
+"27",43,"Female","50-59","White","Not Hispanic or Latino","Rectum","IIA","No","A_CAP","Yes","No","No","No","No surgery","Rectum",25.3665263463493,"Yes",0,0,0,0,0
+"28",44,"Male","50-59","White","Not Hispanic or Latino","Colon","IV","Yes","B_TAS102","No","No","No","No","No surgery","Rectosigmoid",24.3867154400975,"Yes",0,0,0,1,0
+"29",45,"Male","50-59","White","Unknown","Rectum","III","No","A_CAP","Yes","No","No","No","No surgery","Rectum",32.505967513439,"Yes",1,0,0,0,0
+"30",47,"Male","60-69","Asian","Not Hispanic or Latino","Colon","IV","Yes","B_TAS102","No","No","No","No","Right hemicolectomy","Cecum/ascending",17.7582331299433,"No",0,0,0,1,0
+"31",50,"Female","40-49","White","Not Hispanic or Latino","Rectum","IIIB","No","A_CAP","Yes","No","No","No","No surgery","Rectum",20.1408686841042,"Yes",0,0,0,0,0
+"32",51,"Male","60-69","White","Not Hispanic or Latino","Rectum","IV","Yes","A_CAP","Yes","Yes","No","Yes","Laparoscopic loop sigmoid colostomy","Rectum",23.9940273328885,"No",1,0,0,0,1
+"33",52,"Female","40-49","White","Not Hispanic or Latino","Rectum","Unknown","No","A_CAP","Yes","Yes","No","Yes","Abdominoperineal resection","Rectum",32.4897959183673,"No",0,0,0,0,0
+"34",53,"Male","70-79","White","Not Hispanic or Latino","Colon","IIIA","Yes","B_TAS102","No","No","No","No","Right hemicolectomy","Cecum/ascending",23.994959042218,"No",0,0,0,0,0
+"35",54,"Female","50-59","Asian","Not Hispanic or Latino","Colon","IIIB","No","A_CAP","No","Yes","No","No","Right hemicolectomy","Transverse colon",23.907551733405,"No",1,0,0,0,1
